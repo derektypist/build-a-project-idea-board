@@ -4,7 +4,7 @@ Build a project idea board using OOP in JavaScript.  Create classes, add methods
 
 ## UX
 
-[Build a Project Idea Board User Stories[](](https://www.freecodecamp.org/learn/full-stack-developer/lab-project-idea-board/build-a-project-idea-board)
+[Build a Project Idea Board User Stories](https://www.freecodecamp.org/learn/full-stack-developer/lab-project-idea-board/build-a-project-idea-board)
 
 ## Technologies
 
